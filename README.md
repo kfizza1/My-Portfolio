@@ -57,7 +57,7 @@ More projects will be added as I continue learning and building.
 
 ---
 
-## 📩 Live Demo: (" https://kfizza1.github.io/My-Portfolio/")
+## 📩 Live Demo: (https://kfizza1.github.io/Modern-Portfolio/)
 ---
 
 ## 📌 Status
